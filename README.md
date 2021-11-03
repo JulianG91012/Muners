@@ -1,7 +1,7 @@
 # Muners
 
 ## ¿Que es?
-Muners es una pagina web enfocada en la comunicacion y promocion de los diferentes modelos de naciones unidas que se encuentran en la ciudad, que busca conectar de forma sencilla todos los esfuerzos empleados para la educacion de las personas en el ambito politico, y generar mayor interes en el desarrollo de las relaciones internacionales
+Muners es una pagina web enfocada en la comunicacion y promocion de la cultura del tatuaje, dando el espacio para todos aquellos estudios que deseen mostrar su trabajo en una web responsiva y adaptada para la muestra del contenido.
 
 ## Modo de implementacion
 1. Se debe clonar el repositorio de git usando el comando: *git clone https://github.com/LeonStyven/Muners.git*
